@@ -25,7 +25,5 @@ The model is trained on the upsampled training dataset using the pipeline. After
 Model Evaluation:
 The performance of the hate speech detection model is evaluated using the F1 score metric. The F1 score provides a balance between precision and recall, making it suitable for imbalanced datasets. The F1 score achieved by the trained model on the test set is approximately 0.97, indicating a high level of accuracy in classifying hate speech.
 
-We got an F1 score of 97%
-
-Conclusion
+Conclusion:
 The hate speech detection model demonstrates promising results in accurately identifying instances of hate speech in text data. With further refinement and optimization, the model can be deployed in real-world applications to monitor and mitigate the spread of hate speech online.
